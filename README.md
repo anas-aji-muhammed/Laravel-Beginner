@@ -18,7 +18,10 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
 
 ### Basics Covered
 
-- 1. Routes and Views
-
+- 1. Routes, Views and passing data to Views
+- 2. Blade - Basics, Loops, layout files, css & images
+- 3. Query Parameters,Route Parameters(wildcards)
+- 4. Controllers, 
+- 5. MySql, Migrations, Eloquent Model
 
 
